@@ -3,12 +3,12 @@ This tool will scan all the URL's in the file and will provide Content-Length an
 Result will be saved in different files
 This tool will help to select the target when you have 1000's of domains
 
-.                  ____   ____   ____   _____  _____      _
-		 |####| |####| |####  |##### |#####     /#\   
-		|#      #    # |#   # |#|___    /#     /# #\     
-		|#      #    # |#   # |####    /#     /#__\#\    
-		|#____  #____# |# __# |#|__   /#     /#/   \#\         
-		 |####| |####| |####  |##### /##### /#/     \#\    
+  ____   ____   ____   _____  _____      _
+ |####| |####| |####  |##### |#####     /#\   
+|#      #    # |#   # |#|___    /#     /# #\     
+|#      #    # |#   # |####    /#     /#__\#\    
+|#____  #____# |# __# |#|__   /#     /#/   \#\         
+ |####| |####| |####  |##### /##### /#/     \#\     
 
 # Note
 I have provided a list of subdomins of \*.ford.com with more then 5000 domins.
