@@ -21,6 +21,14 @@ potential_result.txt  potential.txt  status
 root@kali:~/recon/tagert/ford# cd status/
 root@kali:~/recon/tagert/ford/status# ls
 200.txt  301.txt  302.txt  303.txt  400.txt  401.txt  403.txt  404.txt  500.txt  502.txt  503.txt
+root@kali:~/recon/tagert/ford/status# cat 200.txt | wc -l
+926
+root@kali:~/recon/tagert/ford/status# cat 404.txt | wc -l
+137
+root@kali:~/recon/tagert/ford/status# cat 500.txt | wc -l
+17
+root@kali:~/recon/tagert/ford/status# cat 303.txt | wc -l
+3
 root@kali:~/recon/tagert/ford/status# 
 
 ```
