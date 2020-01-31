@@ -17,6 +17,7 @@ Make sure Files contains URL's with http:// or https://
 3. ```python codeza.py alive.txt 500 ford```
 
 ```
+root@kali:~/recon/tagert# python codeza.py alive.txt 500 ford
 root@kali:~/recon/tagert# cd ford/
 root@kali:~/recon/tagert/ford# ls
 potential_result.txt  potential.txt  status
