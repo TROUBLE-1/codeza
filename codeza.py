@@ -1,17 +1,21 @@
+
 def logo():
-	print("""
- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                                                                %
-%                 # Coded By @trouble1_raunak                    %
-%                                                                %
- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%         
-""" )
+
+	print ('\033[94m' + """
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	%                                                                %
+	%                 # Coded By @trouble1_raunak                    %
+	%                                                                %
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        
+	""" + '\033[00m')
 
 import requests
 import os
 import sys
 from requests.exceptions import HTTPError
 from urllib3.exceptions import InsecureRequestWarning
+from colorama import Fore, Back, Style
+import re
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 
@@ -27,7 +31,7 @@ foldername = sys.argv[3]
 logo()
 m  = 0
 f = open(file)
-print "(+) Result will be saved in folder name " + foldername + "/"
+print ('\033[96m ' + "(+) Result will be saved in folder name " + foldername + "/" + '\033[00m')
 print ""
 os.system("if [ -f potential.txt ]; then rm potential.txt potential_result.txt; fi")
 isdir = os.path.isdir(foldername)
@@ -39,26 +43,54 @@ os.system('mkdir '+foldername+'/status/')
 for line in f:
 	try:
 		m = m +1
-		line = line.strip('\n')
+		line = line.strip('\r\n')
 		req = requests.get(url = line, allow_redirects=True, verify=False )
 		res = req.text
+		forms = ["</form>", "password", "username", "methods="]
+		forms_found = False
+		for item in forms:    
+			if item in res:
+				forms_found = True
+				found = item	
+		if forms_found:
+			os.system("echo '" + line + " --> contains: " + found +"' >> " + foldername +"/contains_form.txt")
+		Dom_xss = ['document.URL', 'document.documentURI', 
+					'location', 'location.href', 
+					'location.search', 'location.hash', 
+					'document.referrer', 'window.name', 
+					'eval', 'setTimeout','setInterval', 
+					'document.write', 'document.writeIn', 
+					'innerHTML', 'outerHTML' ]
+					
+		Dom_xss_possible = False
+		for item in Dom_xss:    
+			if item in res:
+				Dom_xss_possible = True
+				found = item
+		if Dom_xss_possible:
+			os.system("echo '" + line + " --> contains: "+ found+ "' >> " + foldername + "/possible_Dom_XXS.txt" )
 		status = req.status_code
 		if(len(res) > int(length)):
 			os.system('echo '+ line + ' >> '+ foldername +'/potential.txt')
-			result = str("Line No: " + str(m) + " " +line + " ----->  Len: "+ str(len(res)))
-			os.system("echo '" + line + " -----> Len: " + str(len(res)) + "' >> " + foldername +"/potential_result.txt")
-			print result
+			
+			r1 = re.findall("<title>(.+?)</title>",res)
+			os.system("echo '" + line + " -->  " + r1[0] + "' >> " + foldername + "/with_titles.txt")
+			result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[91m' +" --> " + '\033[00m') + ('\x1b[6;29;43m' + 'Len:' + '\x1b[0m') + " " + ('\033[92m' + str(len(res)) + '\033[00m') + ('\033[91m' +" --> " + '\033[00m') +('\x1b[6;29;44m' + 'Title:' + '\x1b[0m') +" " + ('\033[92m' + r1[0] + '\033[00m')
+			CSI="\x1B["
+			full_result = (CSI+"29;45m" + "[ Line No: " + str(m) + " ]"+ CSI + "0m")+ result
+			result1 = line + " --> " + "Len: " +str(len(res)) + " --> " + " Title: " + r1[0]
+			os.system("echo '" + result1 + "' >> " + foldername +"/potential_result.txt")
+			print full_result
 			
 		req_status = requests.get(url = line, allow_redirects=False, verify=False )
 		status =  str(req_status.status_code)
-		result1 = str(line )
+		result2 = str(line )
 		file_name = foldername + "/status/"+status + ".txt"
-		os.system("echo '" + result1 + "' >> " + file_name)
+		os.system("echo '" + result2 + "' >> " + file_name)
 
-	#except requests.exceptions.ConnectionError as Ex:
-	#	pass
-	#except requests.exceptions.TooManyRedirects as e:
-	#	pass
+	except requests.exceptions.ConnectionError as Ex:
+		pass
+	except requests.exceptions.TooManyRedirects as e:
+		pass
 	except Exception as e:
 		pass
-
