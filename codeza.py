@@ -27,7 +27,7 @@ foldername = sys.argv[3]
 logo()
 m  = 0
 f = open(file)
-print "(+) List will be saved in potential.txt"
+print "(+) Result will be saved in folder name " + foldername + "/"
 print ""
 os.system("if [ -f potential.txt ]; then rm potential.txt potential_result.txt; fi")
 isdir = os.path.isdir(foldername)
@@ -46,7 +46,7 @@ for line in f:
 		if(len(res) > int(length)):
 			os.system('echo '+ line + ' >> '+ foldername +'/potential.txt')
 			result = str("Line No: " + str(m) + " " +line + " ----->  Len: "+ str(len(res)))
-			os.system("echo '" + str(result) + "' >> " + foldername +"/potential_result.txt")
+			os.system("echo '" + line + " -----> Len: " + str(len(res)) + "' >> " + foldername +"/potential_result.txt")
 			print result
 			
 		req_status = requests.get(url = line, allow_redirects=False, verify=False )
