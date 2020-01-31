@@ -1,12 +1,14 @@
-
 def logo():
 
 	print ('\033[94m' + """
-	##################################################################
-	#                                                                #
-	#                 % Coded By @trouble1_raunak                    #
-	#                                                                #
-	##################################################################        
+		  ____   ____   ____   _____  _____      _
+		 |####| |####| |####  |##### |#####     /#\   
+		|#      #    # |#   # |#|___    /#     /# #\     
+		|#      #    # |#   # |####    /#     /#__\#\    
+		|#____  #____# |# __# |#|__   /#     /#/   \#\         
+		 |####| |####| |####  |##### /##### /#/     \#\    
+
+		 # Coded By Raunak Parmar - @trouble1_raunak
 	""" + '\033[00m')
 
 import requests
@@ -31,7 +33,7 @@ foldername = sys.argv[3]
 logo()
 m  = 0
 f = open(file)
-print ('\033[96m ' + "(+) Result will be saved in folder name " + foldername + "/" + '\033[00m')
+print ('\033[96m' + "(+) Result will be saved in folder name " + foldername + "/" + '\033[00m')
 print ""
 os.system("if [ -f potential.txt ]; then rm potential.txt potential_result.txt; fi")
 isdir = os.path.isdir(foldername)
