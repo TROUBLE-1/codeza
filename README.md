@@ -14,5 +14,14 @@ Make sure Files contains URL's with http:// or https://
   Now Use codeza.py to enumerate all urls about its Content-Length and status code 
 3. ```python codeza.py alive.txt 500 ford```
 
+```
+root@kali:~/recon/tagert# cd ford/
+root@kali:~/recon/tagert/ford# ls
+potential_result.txt  potential.txt  status
+root@kali:~/recon/tagert/ford# cd status/
+root@kali:~/recon/tagert/ford/status# ls
+200.txt  301.txt  302.txt  303.txt  400.txt  401.txt  403.txt  404.txt  500.txt  502.txt  503.txt
+root@kali:~/recon/tagert/ford/status# 
 
+```
 Twitter- https://twitter.com/trouble1_raunak
