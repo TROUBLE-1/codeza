@@ -20,7 +20,7 @@ Make sure Files contains URL's with http:// or https://
 root@kali:~/recon/tagert# python codeza.py alive.txt 500 ford
 root@kali:~/recon/tagert# cd ford/
 root@kali:~/recon/tagert/ford# ls
-potential_result.txt  potential.txt  status
+contains_form.txt possible_Dom_XXS.txt potential_result.txt  potential.txt  status with_titles.txt
 root@kali:~/recon/tagert/ford# cd status/
 root@kali:~/recon/tagert/ford/status# ls
 200.txt  301.txt  302.txt  303.txt  400.txt  401.txt  403.txt  404.txt  500.txt  502.txt  503.txt
