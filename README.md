@@ -15,4 +15,4 @@ python codeza.py alive.txt 500 ford
 1. Get all list of subdomains in a file (eg. all.txt)
 2. use httprobe command (eg. cat all.txt | httprobe > alive.txt)
    Now Use codeza.py to enumerate all urls about its Content-Length and status code 
-3. python codeza.py alive.txt 500 ford
+3. ```python codeza.py alive.txt 500 ford```
