@@ -6,5 +6,5 @@ Provide file_name, min_content_length, Folder_name_to_create respectively
 Make sure Files contains URL's with http:// or https://
 
 ```
-python codeza alive.txt 500 ford
+python codeza.py alive.txt 500 ford
 ```
