@@ -1,5 +1,5 @@
 # Description
-This tool will scan all the URL's in the file and will provide Content-Length and Status-Code. Result will be saved in different files
+This tool will scan all the URL's in the file and will provide Content-Length and Status-Code. \r\n Result will be saved in different files
 
 # Note
 I have provided a list of subdomins of \*.ford.com with more then 5000 domins
