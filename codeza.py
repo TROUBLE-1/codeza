@@ -94,5 +94,5 @@ for line in f:
 		pass
 	except requests.exceptions.TooManyRedirects as e:
 		pass
-	except Exception as e:
-		pass
+	#except Exception as e:
+	#	pass
