@@ -1,14 +1,14 @@
 # Description
-This tool will scan all the URL's in the file and will provide Content-Length and Status-Code. 
-Result will be saved in different files
-This tool will help to select the target when you have 1000's of domains
+This tool will enumerate all the URL's in the file and will classify all of them according to their content-Length, Status-code, Tile, Forms, possbile Dom-XSS.
+Result will be saved in different files in given foldername
+This tool makes easy to select the targets when you have lot's of domains to enumerate
 
-              ____   ____   ____   _____  _____      _
-		 |####| |####| |####  |##### |#####     /#\   
-		|#      #    # |#   # |#|___    /#     /# #\     
-		|#      #    # |#   # |####    /#     /#__\#\    
-		|#____  #____# |# __# |#|__   /#     /#/   \#\         
-		 |####| |####| |####  |##### /##### /#/     \#\       
+      ____   ____   ____   _____  _____      _
+	 |####| |####| |####  |##### |#####     /#\   
+	|#      #    # |#   # |#|___    /#     /# #\     
+	|#      #    # |#   # |####    /#     /#__\#\    
+	|#____  #____# |# __# |#|__   /#     /#/   \#\         
+	 |####| |####| |####  |##### /##### /#/     \#\       
 
 # Note
 I have provided a list of subdomins of \*.ford.com with more then 5000 domins.
@@ -40,10 +40,9 @@ root@kali:~/recon/tagert/ford/status# cat 500.txt | wc -l
 root@kali:~/recon/tagert/ford/status# cat 303.txt | wc -l
 3
 root@kali:~/recon/tagert/ford/status# 
-
 ```
 Twitter- https://twitter.com/trouble1_raunak
 
 Youtube- https://www.youtube.com/channel/UCkJ_sEF8iUDXPCI3UL0DAcg/videos
 
-Null profile- https://null.co.in/profile/20680-raunak-parmar
+Nullmeet profile- https://null.co.in/profile/20680-raunak-parmar
