@@ -1,5 +1,5 @@
 # Description
-This tool will enumerate all the URL's in the file and will classify all of them according to their content-Length, Status-code, Tile, Forms, possbile Dom-XSS.
+This tool will enumerate all the URL's in the file and will classify all of them according to their content-Length, Status-code, Title, Forms, possbile Dom-XSS.
 Result will be saved in different files in given foldername
 This tool makes easy to select the targets when you have lot's of domains to enumerate
 
@@ -30,7 +30,7 @@ Make sure file contains URL's with http:// or https://
 # Usage
 1. Get all list of subdomains in a file (eg. all.txt)
 2. use httprobe command (eg. cat all.txt | httprobe > alive.txt) --> https://github.com/tomnomnom/httprobe
-  Now Use codeza.py to enumerate all urls about its Content-Length and status code 
+  Now Use codeza.py to enumerate all url's
 3. ```python codeza.py alive.txt 500 ford```
 
 ```
