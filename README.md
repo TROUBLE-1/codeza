@@ -10,6 +10,9 @@ This tool makes easy to select the targets when you have lot's of domains to enu
 	|#____  #____# |# __# |#|__   /#     /#/   \#\         
 	 |####| |####| |####  |##### /##### /#/     \#\       
 
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/Capture.JPG)
+
 # Note
 I have provided a list of subdomins of \*.ford.com with more then 5000 domins.
 
@@ -46,3 +49,17 @@ Twitter- https://twitter.com/trouble1_raunak
 Youtube- https://www.youtube.com/channel/UCkJ_sEF8iUDXPCI3UL0DAcg/videos
 
 Nullmeet profile- https://null.co.in/profile/20680-raunak-parmar
+
+# Images
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/1.JPG)
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/2.JPG)
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/3.JPG)
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/4.JPG)
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/5.JPG)
+
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/6.JPG)
