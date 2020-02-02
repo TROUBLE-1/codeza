@@ -1,18 +1,20 @@
 def logo():
 
 	print ('\033[94m' + """
-          /|                                                             
-         / |                                                             
+                                          
+          /|                                 
+         / |                  
    _____|  |_____                                                         
   /_____   _____/                                                         
-        |  | _        ____   ____   ____   _____  _____      _            
-        |  || |      |####| |####| |####  |##### |#####     /#\           
-        |  || |     |#      #    # |#   # |#|___    /#     /# #\          
-        |  || |     |#      #    # |#   # |####    /#     /# _\#\         
-        |  ||/      |#____  #____# |#___# |#|__   /#___  /#/   \#\        
-        | /          |####| |####| |####  |##### /##### /#/     \#\       
-        |/                                                                
-                      # Coded By Raunak Parmar - @trouble1_raunak
+        |  | _      ____   ____   ____   _____  _____      _            
+        |  || |    |####| |####| |####  |##### |#####     /#\           
+        |  || |   |#      #    # |#   # |#|___    /#     /# #\          
+        |  || |   |#      #    # |#   # |####    /#     /# _\#\         
+        |  ||/    |#____  #____# |#___# |#|__   /#___  /#/   \#\        
+        | /        |####| |####| |####  |##### /##### /#/     \#\       
+        |/                                                              
+                    # Coded By Raunak Parmar - @trouble1_raunak         
+                                                                          
 	""" + '\033[00m')
 
 import requests
@@ -45,7 +47,8 @@ if isdir == True:
 	os.system("rm -r " + foldername +"/")
 	
 os.system("mkdir " + foldername)
-os.system('mkdir '+foldername+'/status/')
+os.system('mkdir '+ foldername+'/status/')
+os.system("mkdir " + foldername + "/error/")
 for line in f:
 	try:
 		m = m +1
@@ -77,17 +80,33 @@ for line in f:
 			os.system("echo '" + line + " --> contains: "+ found+ "' >> " + foldername + "/possible_Dom_XXS.txt" )
 		status = req.status_code
 		if(len(res) > int(length)):
-			os.system('echo '+ line + ' >> '+ foldername +'/potential.txt')
-			
-			r1 = re.findall("<title>(.+?)</title>",res)
-			os.system("echo '" + line + " -->  " + r1[0] + "' >> " + foldername + "/with_titles.txt")
-			result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[91m' +" --> " + '\033[00m') + ('\x1b[6;29;43m' + 'Len:' + '\x1b[0m') + " " + ('\033[92m' + str(len(res)) + '\033[00m') + ('\033[91m' +" --> " + '\033[00m') +('\x1b[6;29;44m' + 'Title:' + '\x1b[0m') +" " + ('\033[92m' + r1[0] + '\033[00m')
-			CSI="\x1B["
-			full_result = (CSI+"29;45m" + "[ Line No: " + str(m) + " ]"+ CSI + "0m")+ result
-			result1 = line + " --> " + "Len: " +str(len(res)) + " --> " + " Title: " + r1[0]
-			os.system("echo '" + result1 + "' >> " + foldername +"/potential_result.txt")
-			print full_result
-			
+			try:
+				os.system('echo '+ line + ' >> '+ foldername +'/potential.txt')
+				r1 = re.findall("<title>(.+?)</title>",res)
+				for x in range(len(r1)):
+					title = " No Title"
+					if r1[x] != None:  
+						title = r1[x]
+				# result in with_titles.txt
+				
+				os.system("echo '" + line + " -->  " + title + "' >> " + foldername + "/with_titles.txt")
+				
+					
+				result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[93m' +" --> " + '\033[00m') + ('\x1b[6;29;43m ' + 'Len:' + '\x1b[0m') + " " + ('\033[92m' + str(len(res)) + '\033[00m') + ('\033[94m' +" --> " + '\033[00m') +('\x1b[6;29;44m ' + 'Title:' + '\x1b[0m') +" " + ('\033[92m' + title + '\033[00m')
+				
+				CSI = "\x1B["
+				full_result = (CSI+"29;45m" + "[ Line No: " + str(m) + " ]"+ CSI + "0m")+ result
+				result1 = line + " --> " + "Len: " +str(len(res)) + " --> " + " Title: " + title
+				os.system("echo '" + result1 + "' >> " + foldername +"/potential_result.txt")
+				print full_result
+			except UnicodeEncodeError as error:
+					#print ('\033[91m' + "[Error: Line no "+ str(m) + ", " + "Url: " + line + "] "+ "There was error while updating result in with_title.txt" + '\033[00m')
+					print ('\x1b[6;29;41m' + "[Error: Line no "+ str(m) + ", " + "Url: " + line + "]"+ '\x1b[0m')+ ('\033[91m' + " There was error while updating result in with_title.txt" + '\033[00m')
+					update = line + "[Error: Line no "+ str(m) + " ]"
+					os.system("echo " + update + " >> " + foldername + "/error/title_error.txt")
+					pass
+		
+		# urls with status code are been saved from here in status/ folder
 		req_status = requests.get(url = line, allow_redirects=False, verify=False )
 		status =  str(req_status.status_code)
 		result2 = str(line )
@@ -98,5 +117,8 @@ for line in f:
 		pass
 	except requests.exceptions.TooManyRedirects as e:
 		pass
-	except Exception as e:
-		pass
+	#except IndexError as error:
+	#			pass	
+	#except Exception as e:
+	#	pass
+
