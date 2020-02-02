@@ -100,8 +100,7 @@ for line in f:
 				os.system("echo '" + result1 + "' >> " + foldername +"/potential_result.txt")
 				print full_result
 			except UnicodeEncodeError as error:
-					#print ('\033[91m' + "[Error: Line no "+ str(m) + ", " + "Url: " + line + "] "+ "There was error while updating result in with_title.txt" + '\033[00m')
-					print ('\x1b[6;29;41m' + "[Error: Line no "+ str(m) + ", " + "Url: " + line + "]"+ '\x1b[0m')+ ('\033[91m' + " There was error while updating result in with_title.txt" + '\033[00m')
+					print ('\x1b[6;29;41m' + "  [Error: Line no "+ str(m) + ", " + "Url: " + line + "]"+ '\x1b[0m')+ ('\033[91m' + " There was error while updating result in with_title.txt" + '\033[00m')
 					update = line + "[Error: Line no "+ str(m) + " ]"
 					os.system("echo " + update + " >> " + foldername + "/error/title_error.txt")
 					pass
