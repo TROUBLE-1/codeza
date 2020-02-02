@@ -1,0 +1,17 @@
+https://dev-auth.parts.ford.com
+https://edu-auth.parts.ford.com
+https://qa-auth.parts.ford.com
+https://wwwintmg3.brandauthorus.ford.com
+https://wwwintmg3.brandus.ford.com
+http://wwwmg3.brandauthorusa.ford.com
+http://wwwmg3.brandauthorusb.ford.com
+https://wwwmg3.brandauthorusa.ford.com
+https://wwwmg3.brandauthorusb.ford.com
+https://wwwmg3.brandauthorus.ford.com
+http://www.cpmd.ford.com
+https://www.cpmd.ford.com
+https://wwwdev2mg3.brandauthorus.ford.com
+https://wwwdev2mg3.brandus.ford.com
+https://wwwdev.brandauthorus.ford.com
+https://wwwperfmg3.brandauthorus.ford.com
+https://wwwqa2mg3.brandauthorus.ford.com

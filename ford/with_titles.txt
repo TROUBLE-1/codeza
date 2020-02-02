@@ -1,0 +1,912 @@
+https://www.ediscovery.ford.com -->  Veritas eDiscovery Platform log in
+https://www.ediscovery2.ford.com -->  Veritas eDiscovery Platform log in
+http://bp3.ford.com -->  Ford Vehicle Showroom
+https://bp3.ford.com -->  Ford Vehicle Showroom
+http://build.ford.com -->  Test Page for the Nginx HTTP Server on EPEL
+https://build.ford.com -->  Test Page for the Nginx HTTP Server on EPEL
+http://canada.fleet.ford.com -->  Test Page for the Nginx HTTP Server on EPEL
+https://www.edms.ford.com -->  Secure User Login
+http://caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+https://canada.fleet.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+http://carsadmin.ford.com -->  Home Realm Discovery
+https://caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+http://wwwedualt2.servicesusa.ford.com -->  Secure User Login
+https://carsadmin.ford.com -->  Home Realm Discovery
+http://wwwedualt2.servicesusb.ford.com -->  Secure User Login
+https://wwwedualt2.servicesusa.ford.com -->  Secure User Login
+http://corporate.ford.com -->  Ford Motor Company Official Global Corporate Homepage | Ford.com
+https://coc.parts.ford.com -->  Ford Motor Company Official Global Corporate Homepage | Ford.com
+https://wwwedualt2.servicesusb.ford.com -->  Secure User Login
+https://corporate.ford.com -->  Ford Motor Company Official Global Corporate Homepage | Ford.com
+https://concierge.fordguides.ford.com.cn -->  Sign In
+http://wwwedu.bpm.ford.com -->  Secure User Login
+https://conciergeqa.fordguides.ford.com.cn -->  Sign In
+https://wwwedu.bpm.ford.com -->  Secure User Login
+http://credit.ford.com -->  Finance or Lease Ford Cars &amp; Trucks, Apply for Ford Credit &amp; Pay Bill | Official Site of Ford Credit
+https://wwwedu.clwa.ford.com -->  Secure User Login
+https://crm.fordguides.ford.com.cn -->  Sign In
+https://credit.ford.com -->  Finance or Lease Ford Cars &amp; Trucks, Apply for Ford Credit &amp; Pay Bill | Official Site of Ford Credit
+https://crmqa.fordguides.ford.com.cn -->  Sign In
+http://dealer.india.ford.com -->  Ford India Locator/Finder | Ford Dealer
+http://dealer.parts.ford.com -->  Ford Parts
+https://dealer.india.ford.com -->  Ford India Locator/Finder | Ford Dealer
+https://dealer.parts.ford.com -->  Ford Parts
+http://dev-auth-coc.parts.ford.com -->  Ford Parts
+http://wwwedu.gforce.ford.com -->  Secure User Login
+https://dev-auth-coc.parts.ford.com -->  Ford Parts
+https://wwwedu.gforce.ford.com -->  Secure User Login
+https://dev-cevdm.ford.com.cn -->  Ford Parts
+http://dev-coc.parts.ford.com -->  Ford Parts
+http://wwwedu.ivs.ford.com -->  Home Realm Discovery
+https://dev-coc.parts.ford.com -->  Ford Parts
+http://wwwedu.ivisb.ford.com -->  Secure User Login
+http://dev-dealer.parts.ford.com -->  Ford Parts
+https://dev-cvpp.ford.com.cn -->  Ford Parts
+https://wwwedu.ivs.ford.com -->  Home Realm Discovery
+http://developer.ford.com -->  Ford Parts
+https://wwwedu.ivisb.ford.com -->  Secure User Login
+https://dev-dealer.parts.ford.com -->  Ford Parts
+https://developer.ford.com -->  Ford Parts
+https://dev-fevdm.ford.com.cn -->  Ford Parts
+http://dev.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+http://wwwedumg2.servicesusa.ford.com -->  Secure User Login
+http://wwwedumg2.servicesus.ford.com -->  Secure User Login
+https://dev.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://wwwedumg2.servicesusa.ford.com -->  Secure User Login
+https://devqa.fordguides.ford.com.cn -->  Sign In
+https://wwwedumg2.servicesus.ford.com -->  Secure User Login
+http://wwwedu.na.fleet.ford.com -->  Secure User Login
+http://drivingford.india.ford.com -->  Driving Ford - The Official Ford India Blog - Driving Ford
+http://wwwedu.ngauthor.ford.com -->  Secure User Login
+https://wwwedu.na.fleet.ford.com -->  Secure User Login
+http://wwwedu.quickquotefoca.ford.com -->  Secure User Login
+https://drivingford.india.ford.com -->  Driving Ford - The Official Ford India Blog - Driving Ford
+https://wwwedu.quickquotefoca.ford.com -->  Secure User Login
+http://wwwedu.quickquoteusa.ford.com -->  Secure User Login
+https://dev-utp.ford.com.cn -->  Driving Ford - The Official Ford India Blog - Driving Ford
+https://dev-pcdp.ford.com.cn -->  502 - Web server received an invalid response while acting as a gateway or proxy server.
+https://disc.fordguides.ford.com.cn -->  Sign In
+http://edu-auth-coc.parts.ford.com -->  Sign In
+https://edu-auth-coc.parts.ford.com -->  Sign In
+http://edu-coc.parts.ford.com -->  Sign In
+http://edu-dealer.parts.ford.com -->  Ford Parts
+https://edu-coc.parts.ford.com -->  Ford Parts
+http://edu-origin.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://edu-dealer.parts.ford.com -->  Ford Parts
+http://edu.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://edu-origin.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://edu.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+http://esp.ford.com -->  Ford Protect Extended Service and Maintenance
+https://esp.ford.com -->  Ford Protect Extended Service and Maintenance
+http://es.owner.ford.com -->  mantenimiento
+http://es.quickquote.ford.com -->  Precio de Internet
+https://es.quickquote.ford.com -->  Precio de Internet
+https://es.owner.ford.com -->  mantenimiento
+http://ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+http://ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+https://ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+https://ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+https://ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+http://ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+http://ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+http://ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+https://ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+https://ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+http://fordprotect.ford.com -->  Ford Protect Extended Service and Maintenance
+http://fordviswsl.ford.com -->  Secure User Login
+https://fordviswsl.ford.com -->  Secure User Login
+http://incentivesqa.ford.com -->  Secure User Login
+https://incentivesqa.ford.com -->  Secure User Login
+http://inventory.ford.com -->  Ford Vehicle Showroom
+http://jobs.corporate.ford.com -->  Ford Vehicle Showroom
+https://jobs.corporate.ford.com -->  Ford Vehicle Showroom
+http://login.sys.pd01.cneast.cf.ford.com.cn -->  Pivotal
+http://login.sys.pd01.cnnorth.cf.ford.com.cn -->  Pivotal
+http://login.sys.pp01.cneast.cf.ford.com.cn -->  Pivotal
+http://login.sys.pp01.cnnorth.cf.ford.com.cn -->  Pivotal
+http://login.sys.sb01.cneast.cf.ford.com.cn -->  Pivotal
+http://login.sys.sb01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://login.sys.pd01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://login.sys.pd01.cneast.cf.ford.com.cn -->  Pivotal
+https://login.sys.pp01.cneast.cf.ford.com.cn -->  Pivotal
+https://login.sys.pp01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://login.sys.sb01.cneast.cf.ford.com.cn -->  Pivotal
+https://login.sys.sb01.cnnorth.cf.ford.com.cn -->  Pivotal
+http://m.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+http://m.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+https://m.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+https://m.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+http://media.ford.com -->  Home | Ford Media Center
+https://media.ford.com -->  Home | Ford Media Center
+http://me.ford.com -->  Ford ME Country Selector
+http://merchandise.ford.com -->  The Ford Merchandise Store
+https://me.ford.com -->  Ford ME Country Selector
+https://merchandise.ford.com -->  The Ford Merchandise Store
+http://m.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+http://m.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+https://m.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+http://m.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+https://m.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://m.ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+https://m.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+http://m.ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+https://m.ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+http://m.ford.com.ve -->  404
+https://m.ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+https://m.ford.com.ve -->  404
+http://m.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+https://m.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+http://m.me.ford.com -->  Ford ME Country Selector
+http://m.me.ford.com -->  Ford ME Country Selector
+https://m.me.ford.com -->  Ford ME Country Selector
+https://m.me.ford.com -->  Ford ME Country Selector
+http://m.pts.ford.com -->  Web Single Login
+https://m.pts.ford.com -->  Web Single Login
+http://m.quickquote.ford.com -->  Get an Internet Price
+https://m.quickquote.ford.com -->  Get an Internet Price
+http://m.ssa.ford.com -->   Ford Sub-Saharan Africa
+http://m.ssa.ford.com -->   Ford Sub-Saharan Africa
+https://m.ssa.ford.com -->   Ford Sub-Saharan Africa
+https://m.ssa.ford.com -->   Ford Sub-Saharan Africa
+http://mycareer.ford.com -->  Work with Us
+http://mycareer.ford.com -->  Work with Us
+https://mycareer.ford.com -->  Work with Us
+https://mycareer.ford.com -->  Work with Us
+http://na.fps.ford.com -->  Home Page - My ASP.NET Application
+http://na.fpsqa.ford.com -->  Home Page - My ASP.NET Application
+https://na.fps.ford.com -->  Home Page - My ASP.NET Application
+https://na.fpsqa.ford.com -->  Home Page - My ASP.NET Application
+http://origin-bp2.ford.com -->  Ford Vehicle Showroom
+http://origin.ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://origin-www.clw.ford.com -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://origin-wwwdev.clw.ford.com -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://origin-wwwedu.clw.ford.com -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://origin-wwwqa.clw.ford.com -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+http://origin-www.warriorsinpink.ford.com -->  Warriors in Pink
+http://ova.owner.ford.com -->  Microsoft Azure Web App - Error 404
+https://ova.owner.ford.com -->  Microsoft Azure Web App - Error 404
+https://origin-www.warriorsinpink.ford.com -->  Warriors in Pink
+http://owneradvantage.ford.com -->  Owner Advantage Home
+http://owneradvantageford.com -->  Owner Advantage Home
+https://owneradvantage.ford.com -->  Owner Advantage Home
+http://owneradvantagerewards.ford.com -->  Owner Advantage Home
+https://owneradvantageford.com -->  Owner Advantage Home
+https://owneradvantagerewards.ford.com -->  Owner Advantage Home
+http://owner.ford.com -->  maintenance
+https://owner.ford.com -->  maintenance
+http://partsdistributor.india.ford.com -->  Ford Auto Parts Distributor Locator/Finder | Auto Part distributor
+http://parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+http://payment.credit.ford.com -->  Account Manager
+https://parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://payment.credit.ford.com -->  Account Manager
+http://pcf.mk.ford.com -->  Account Manager
+http://pcf.tc.ford.com -->  Account Manager
+https://pcf.mk.ford.com -->  Account Manager
+http://policies.telematicsqa.ford.com -->  Home Page
+https://pcf.tc.ford.com -->  Home Page
+http://policies.telematics.ford.com -->  Home Page
+http://performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://policies.telematicsdev.ford.com -->  Home Page
+https://policies.telematicsqa.ford.com -->  Home Page
+https://policies.telematics.ford.com -->  Home Page
+https://partsdistributor.india.ford.com -->  Ford Auto Parts Distributor Locator/Finder | Auto Part distributor
+https://performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://qa-auth-coc.parts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://qa-auth-coc.parts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://qa-coc.parts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://qa-cevdm.ford.com.cn -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://qa-coc.parts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://qa-dealer.parts.ford.com -->  Ford Parts
+https://qa-cvpp.ford.com.cn -->  Ford Parts
+https://qa-dealer.parts.ford.com -->  Ford Parts
+https://qa-fevdm.ford.com.cn -->  Ford Parts
+http://qamg.competencycenter.ford.com -->  Secure User Login
+http://qamg.esmart2.ford.com -->  Secure User Login
+https://qamg.competencycenter.ford.com -->  Secure User Login
+http://qamg.fordlpg.ford.com -->  Ford Lommel Proving Ground
+https://qamg.esmart2.ford.com -->  Secure User Login
+http://qamg.gcat2.ford.com -->  Secure User Login
+https://qamg.fordlpg.ford.com -->  Ford Lommel Proving Ground
+https://qamg.gcat2.ford.com -->  Secure User Login
+http://qamg.gslts.ford.com -->  Secure User Login
+http://qamg.pcm.ford.com -->  Secure User Login
+http://qamg.geos.ford.com -->  Secure User Login
+http://qamg.planford.com.ve -->  Secure User Login
+https://qa-utp.ford.com.cn -->  Secure User Login
+http://racing.ford.com -->  Official Ford Performance
+http://rewards.ford.com -->  Owner Advantage Rewards
+http://secure.corporate.ford.com -->  Contact Us | Ford.com
+https://secure.corporate.ford.com -->  Contact Us | Ford.com
+http://wwwedu.quickquoteus.ford.com -->  Secure User Login
+https://wwwedu.quickquoteus.ford.com -->  Secure User Login
+http://servicesdev.forddirect.ford.com -->  Sign In
+https://servicesdev.forddirect.ford.com -->  Sign In
+http://servicesedu.forddirect.ford.com -->  Home Realm Discovery
+https://servicesedu.forddirect.ford.com -->  Home Realm Discovery
+http://services.forddirect.ford.com -->  Home Realm Discovery
+https://services.forddirect.ford.com -->  Home Realm Discovery
+http://social.ford.com -->  Ford Social: Breaking News, Articles and Videos from Ford--and our Fans
+https://social.ford.com -->  Ford Social: Breaking News, Articles and Videos from Ford--and our Fans
+http://ssa.ford.com -->   Ford Sub-Saharan Africa
+https://ssa.ford.com -->   Ford Sub-Saharan Africa
+https://stage-cevdm.ford.com.cn -->   Ford Sub-Saharan Africa
+https://stage-fevdm.ford.com.cn -->   Ford Sub-Saharan Africa
+https://stage-cvpp.ford.com.cn -->   Ford Sub-Saharan Africa
+https://stage-utp.ford.com.cn -->   Ford Sub-Saharan Africa
+http://staging.media.ford.com -->  Home | Ford Media Center
+https://staging.media.ford.com -->  Home | Ford Media Center
+http://support.ford.com -->  maintenance
+http://svt.ford.com -->  Official Ford Performance
+https://test.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+http://touch.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://touch.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+https://touch.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+https://touch.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+http://touch.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+http://touch.ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+https://touch.ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+http://touch.ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+http://touch.ford.com.ve -->  404
+http://touch.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+https://touch.ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+https://touch.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+https://touch.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+https://touch.ford.com.ve -->  404
+http://trackey.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://t.quickquote.ford.com -->  Get an Internet Price
+http://uaa.sys.pd01.cneast.cf.ford.com.cn -->  Pivotal
+http://uaa.sys.pd01.cnnorth.cf.ford.com.cn -->  Pivotal
+http://uaa.sys.pp01.cneast.cf.ford.com.cn -->  Pivotal
+http://uaa.sys.pp01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://trackey.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://uaa.sys.sb01.cneast.cf.ford.com.cn -->  Pivotal
+https://uaa.sys.pd01.cneast.cf.ford.com.cn -->  Pivotal
+http://uaa.sys.sb01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://uaa.sys.pd01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://uaa.sys.pp01.cneast.cf.ford.com.cn -->  Pivotal
+https://uaa.sys.pp01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://uaa.sys.sb01.cnnorth.cf.ford.com.cn -->  Pivotal
+https://t.quickquote.ford.com -->  Get an Internet Price
+https://uaa.sys.sb01.cneast.cf.ford.com.cn -->  Pivotal
+http://warriorsinpink.ford.com -->  Warriors in Pink
+http://warriorsinpink.ford.com -->  Warriors in Pink
+http://web2.gemstest.ford.com -->  Warriors in Pink
+http://web.aim.ford.com -->  Home Realm Discovery
+http://wwwedu.servicesusa.ford.com -->  Home Realm Discovery
+https://wwwedu.quickquoteusa.ford.com -->  Home Realm Discovery
+http://wwwedu.servicesus.ford.com -->  Home Realm Discovery
+https://wwwedu.servicesusa.ford.com -->  Home Realm Discovery
+https://wwwedu.servicesus.ford.com -->  Home Realm Discovery
+https://wwwedu.warrantyauthoring.ford.com -->  Secure User Login
+http://wwwedu.warrantyclaims.ford.com -->  Secure User Login
+http://wwwedu.warrantyprocessing.ford.com -->  Secure User Login
+https://wwwedu.warrantyclaims.ford.com -->  Secure User Login
+http://wwwedu.webquote1.ford.com -->  Secure User Login
+https://wwwedu.warrantyprocessing.ford.com -->  Secure User Login
+http://www.esmart2.ford.com -->  Secure User Login
+http://www.esp.ford.com -->  Ford Protect Extended Service and Maintenance
+https://wwwedu.webquote1.ford.com -->  Secure User Login
+https://www.esmart2.ford.com -->  Secure User Login
+https://www.esp.ford.com -->  Ford Protect Extended Service and Maintenance
+http://www.etis.ford.com -->  Ford Protect Extended Service and Maintenance
+http://wwwedu.webquote.ford.com -->  Secure User Login
+http://www.fcsd-parts.ford.com -->  Secure User Login
+https://wwwedu.webquote.ford.com -->  Secure User Login
+http://www.fcsd-parts-na.ford.com -->  Secure User Login
+https://www.fcsd-parts.ford.com -->  Secure User Login
+https://www.fcsd-parts-na.ford.com -->  Secure User Login
+https://www.etis.ford.com -->  Secure User Login
+https://web.aim.ford.com -->  Home Realm Discovery
+https://www.fevdm.ford.com.cn -->  Secure User Login
+http://web.ccas.ford.com -->  Secure User Login
+http://web.cdswebst.ford.com -->  Home Realm Discovery
+https://web.ccas.ford.com -->  Secure User Login
+http://web.cmmseddl.ford.com -->  Secure User Login
+http://www.ffsupload.ford.com -->  FFS Upload
+https://web.cdswebst.ford.com -->  Home Realm Discovery
+http://www.ffsupload.ford.com -->  FFS Upload
+https://web.cmmseddl.ford.com -->  Home Realm Discovery
+https://www.ffsupload.ford.com -->  FFS Upload
+https://web.cmmsobso.ford.com -->  Home Realm Discovery
+http://web.competencycenter.ford.com -->  Secure User Login
+https://www.ffsupload.ford.com -->  FFS Upload
+https://web.competencycenter.ford.com -->  Secure User Login
+http://www.fleet.ford.com -->  FFS Upload
+https://www.fleet.ford.com -->  FFS Upload
+http://www.fleet.ford.com -->  FFS Upload
+https://www.fleet.ford.com -->  FFS Upload
+https://web.competencycenter.ford.com -->  Secure User Login
+http://web.conford.ford.com -->  Home Realm Discovery
+http://www.fmms.ford.com -->  Home Realm Discovery
+http://web.cmmsobso.ford.com -->  Home Realm Discovery
+https://web.conford.ford.com -->  Home Realm Discovery
+https://www.fmms.ford.com -->  Home Realm Discovery
+http://web.competencycenter.ford.com -->  Secure User Login
+http://www.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+http://www.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+https://www.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+https://www.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+http://www.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+https://www.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+http://www.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+http://www.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://www.ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+https://www.ford.com.ec -->  Ford Ecuador | Autos Crossovers SUVs Pick Ups Camionetas Camiones y Accesorios.
+https://www.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://www.ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+https://www.ford.com.ph -->  Ford Philippines: SUVs, Trucks and Sports Cars | Official Ford PH Website
+https://www.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+http://www.ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://www.ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+http://www.fordcredit.ar.ford.com -->   Ford Argentina - Financiamiento Ford Credit
+http://web.efdvs.ford.com -->  Secure User Login
+http://web.emmg.ford.com -->  Secure User Login
+https://web.emmg.ford.com -->  Secure User Login
+https://web.efdvs.ford.com -->  Secure User Login
+https://www.fordcredit.ar.ford.com -->   Ford Argentina - Financiamiento Ford Credit
+http://web.esmart2.ford.com -->  Secure User Login
+http://web.esmart2.ford.com -->  Secure User Login
+https://web.esmart2.ford.com -->  Secure User Login
+https://web.esmart2.ford.com -->  Secure User Login
+https://web.fleet.ford.com -->  Secure User Login
+http://www.fordprotect.ford.com -->  Ford Protect Extended Service and Maintenance
+http://www.fordlpg.ford.com -->  Ford Lommel Proving Ground
+https://www.fordprotect.ford.com -->  Ford Protect Extended Service and Maintenance
+http://web.gcamp.ford.com -->  Secure User Login
+https://www.fordlpg.ford.com -->  Ford Lommel Proving Ground
+http://www.forso.fi.ford.com -->  Ford Lommel Proving Ground
+https://web.gcamp.ford.com -->  Secure User Login
+https://www.forso.fi.ford.com -->  Ford Lommel Proving Ground
+http://web.gpae.ford.com -->  Home Realm Discovery
+http://www.fsivbatch.ford.com -->  Secure User Login
+http://www.fsiv.ford.com -->  Secure User Login
+https://www.fsiv.ford.com -->  Secure User Login
+http://web.gpirsddl.ford.com -->  Home Realm Discovery
+http://web.fleet.ford.com -->  Home Realm Discovery
+https://www.fsivbatch.ford.com -->  Secure User Login
+https://web.gpae.ford.com -->  Home Realm Discovery
+http://web.gsec.ford.com -->  Home Realm Discovery
+http://web.gslts.ford.com -->  Secure User Login
+http://www.gcat2.ford.com -->  Login
+http://web.gslts.ford.com -->  Secure User Login
+https://web.gsec.ford.com -->  Secure User Login
+http://www.gcat2.ford.com -->  Login
+https://web.gslts.ford.com -->  Secure User Login
+https://web.gslts.ford.com -->  Secure User Login
+https://www.gcat2.ford.com -->  Login
+https://www.gcat2.ford.com -->  Login
+http://www.gems.ford.com -->  Login
+https://web.gpirsddl.ford.com -->  Home Realm Discovery
+http://web.meets.ford.com -->  Home Realm Discovery
+http://www.gforce.ford.com -->  Secure User Login
+https://web.meets.ford.com -->  Home Realm Discovery
+http://www.gmm.ford.com -->  Secure User Login
+https://www.gforce.ford.com -->  Secure User Login
+http://www.goasis.ford.com -->  Secure User Login
+http://www.gotd-sims.ford.com -->  Secure User Login
+http://www.gmmimds.ford.com -->  Secure User Login
+https://www.gmm.ford.com -->  Secure User Login
+https://www.gotd-sims.ford.com -->  Secure User Login
+https://www.gmmimds.ford.com -->  Secure User Login
+http://www.gsec.ford.com -->   GSEC Hub - Home
+http://www.gsec.ford.com -->   GSEC Hub - Home
+https://www.goasis.ford.com -->  Secure User Login
+https://www.gsec.ford.com -->   GSEC Hub - Home
+https://www.gsec.ford.com -->   GSEC Hub - Home
+http://www.hrmobile.ford.com.cn -->  iFordChina
+https://www.hrmobile.ford.com.cn -->  iFordChina
+http://webmg.gsec.ford.com -->  500 - Internal server error.
+https://webmg.gslts.ford.com -->  Secure User Login
+http://webmg.gslts.ford.com -->  Secure User Login
+http://www.ibis.ford.com -->  Web Single Login SecurID Authentication
+https://www.ibis.ford.com -->  Web Single Login SecurID Authentication
+http://web.mpnr.ford.com -->  Secure User Login
+https://web.mpnr.ford.com -->  Secure User Login
+http://www.imagine.ford.com -->  Web Single Login SecurID Authentication
+http://www.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+https://www.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+http://www.impex.ford.com -->  Secure User Login
+http://web.pcm.ford.com -->  Secure User Login
+http://web.pcm.ford.com -->  Secure User Login
+http://www.imcs.ford.com -->  Secure User Login
+https://www.imagine.ford.com -->  Secure User Login
+http://web.pkginfo.ford.com -->  Secure User Login
+https://www.impex.ford.com -->  Secure User Login
+https://web.pcm.ford.com -->  Secure User Login
+https://www.gems.ford.com -->  Secure User Login
+http://web.ppap.ford.com -->  Secure User Login
+https://web.pkginfo.ford.com -->  Secure User Login
+https://www.imcs.ford.com -->  Secure User Login
+http://www.integrity.ford.com -->  Web Single Login SecurID Authentication
+https://web.ppap.ford.com -->  Secure User Login
+https://web.pcm.ford.com -->  Secure User Login
+http://web.purinfo.ford.com -->  Secure User Login
+https://www.integrity.ford.com -->  Web Single Login SecurID Authentication
+http://webqa.aim.ford.com -->  Home Realm Discovery
+https://web.purinfo.ford.com -->  Home Realm Discovery
+https://webqa.aim.ford.com -->  Home Realm Discovery
+http://www.inventory.ford.com -->  Ford Vehicle Showroom
+https://www.inventory.ford.com -->  Ford Vehicle Showroom
+http://webqa.cdswebst.ford.com -->  Home Realm Discovery
+http://www.ivisb.ford.com -->  Secure User Login
+http://webqa.ccas.ford.com -->  Secure User Login
+http://www.ivs.ford.com -->  Home Realm Discovery
+http://webqa.cmmsobso.ford.com -->  Secure User Login
+https://www.ivisb.ford.com -->  Secure User Login
+https://webqa.cdswebst.ford.com -->  Home Realm Discovery
+https://www.ivs.ford.com -->  Home Realm Discovery
+http://www.ivsu.ziphandler.ford.com.cn -->  Home Page
+https://webqa.ccas.ford.com -->  Secure User Login
+https://www.ivsu.ziphandler.ford.com.cn -->  Home Page
+https://webqa.cmmsobso.ford.com -->  Secure User Login
+http://www.lean.ford.com -->  Home Realm Discovery
+http://www.lean.ford.com -->  Home Realm Discovery
+https://www.lean.ford.com -->  Home Realm Discovery
+http://webqa.gpae.ford.com -->  Home Realm Discovery
+http://www.lom.ford.com -->  Secure User Login
+https://webqa.gpae.ford.com -->  Home Realm Discovery
+http://webqa.gpirsddl.ford.com -->  Home Realm Discovery
+https://webqa.gpirsddl.ford.com -->  Home Realm Discovery
+https://www.lom.ford.com -->  Secure User Login
+https://www.lean.ford.com -->  Home Realm Discovery
+http://www.media.ford.com -->  Home | Ford Media Center
+http://www.me.ford.com -->  Ford ME Country Selector
+https://www.media.ford.com -->  Home | Ford Media Center
+http://wwwmg16.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://webqa.securitymap.ford.com -->  Secure User Login
+https://webqa.securitymap.ford.com -->  Secure User Login
+http://webqa.pkginfo.ford.com -->  Secure User Login
+https://wwwmg16.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://www.me.ford.com -->  Ford ME Country Selector
+http://webqa.vee.ford.com -->  Secure User Login
+http://webqa.uvis.ford.com -->  Secure User Login
+https://webqa.pkginfo.ford.com -->  Secure User Login
+http://wwwmg2.ivs.ford.com -->  Secure User Login
+https://webqa.uvis.ford.com -->  Secure User Login
+https://wwwmg2.ivs.ford.com -->  Secure User Login
+http://wwwmg2.servicesus.ford.com -->  Secure User Login
+http://webqa.vis.ford.com -->  Sign In
+https://wwwmg2.servicesus.ford.com -->  Secure User Login
+https://webqa.vis.ford.com -->  Sign In
+http://web.qpr.ford.com -->  Home Realm Discovery
+https://web.qpr.ford.com -->  Home Realm Discovery
+http://wwwmg3.edms.ford.com -->  Secure User Login
+https://wwwmg3.edms.ford.com -->  Secure User Login
+http://web.securitymap.ford.com -->  Secure User Login
+http://wwwmg3.secureauthe.ford.com -->  Secure User Login
+http://web.srea.ford.com -->  Secure User Login
+https://web.securitymap.ford.com -->  Secure User Login
+https://web.srea.ford.com -->  Secure User Login
+http://web.uvis.ford.com -->  Secure User Login
+http://web.vis.ford.com -->  Secure User Login
+https://web.uvis.ford.com -->  Secure User Login
+https://web.vis.ford.com -->  Secure User Login
+https://wwwmg3.secureauthe.ford.com -->  Secure User Login
+https://wwwmg3.secureauth.ford.com -->  Secure User Login
+http://www.accessories.ford.com -->  Ford Accessories | The Official Site for Ford  Accessories | Customize Your Ford
+http://www.account.ford.com -->  Ford - Sign-In
+https://www.accessories.ford.com -->  Ford Accessories | The Official Site for Ford  Accessories | Customize Your Ford
+https://www.account.ford.com -->  Ford - Sign-In
+http://www.agenda.ford.com -->  :: Agend@Ford      ::
+https://www.agenda.ford.com -->  :: Agend@Ford      ::
+http://wwwalt2.servicesusa.ford.com -->  Secure User Login
+http://wwwalt2.servicesusb.ford.com -->  Secure User Login
+http://wwwmg3.wslb2be.ford.com -->  Secure User Login
+https://wwwalt2.servicesusa.ford.com -->  Secure User Login
+https://wwwalt2.servicesusb.ford.com -->  Secure User Login
+http://www.atlas.ford.com -->  Home Realm Discovery
+http://www.apford.com -->  Al Piemonte Ford | Ford Dealer in Melrose Park, IL
+https://www.atlas.ford.com -->  Home Realm Discovery
+http://www.axz.ford.com -->  Home Realm Discovery
+https://www.axz.ford.com -->  Home Realm Discovery
+http://www.bpm.ford.com -->  Secure User Login
+https://www.bpm.ford.com -->  Secure User Login
+http://www.carsadmin.ford.com -->  Home Realm Discovery
+https://www.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+https://www.carsadmin.ford.com -->  Home Realm Discovery
+https://wwwmg3.wslb2be.ford.com -->  Secure User Login
+https://www.cevdm.ford.com.cn -->  Home Realm Discovery
+http://www.capacityplanning2.ford.com -->  Secure User Login
+https://www.capacityplanning2.ford.com -->  Secure User Login
+https://www.clwa.ford.com -->  Secure User Login
+https://www.clwb.ford.com -->  Secure User Login
+http://www.companyvehicles.ford.com -->  Secure User Login
+http://www.competencycenter.ford.com -->  Secure User Login
+http://www.competencycenter.ford.com -->  Secure User Login
+http://www.contactosford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://www.competencycenter.ford.com -->  Secure User Login
+https://www.competencycenter.ford.com -->  Secure User Login
+http://www.contactosford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://www.companyvehicles.ford.com -->  Secure User Login
+http://www.corporate.ford.com -->  Ford Motor Company Official Global Corporate Homepage | Ford.com
+https://www.corporate.ford.com -->  Ford Motor Company Official Global Corporate Homepage | Ford.com
+http://www.credit.ford.com -->  Finance or Lease Ford Cars &amp; Trucks, Apply for Ford Credit &amp; Pay Bill | Official Site of Ford Credit
+https://www.credit.ford.com -->  Finance or Lease Ford Cars &amp; Trucks, Apply for Ford Credit &amp; Pay Bill | Official Site of Ford Credit
+http://wwwmg.competencycenter.ford.com -->  Secure User Login
+https://wwwmg.competencycenter.ford.com -->  Secure User Login
+http://wwwmg.esmart2.ford.com -->  Secure User Login
+https://wwwmg.esmart2.ford.com -->  Secure User Login
+http://wwwmg.fleet.ford.com -->  Secure User Login
+https://wwwmg.fleet.ford.com -->  Secure User Login
+https://www.cvpp.ford.com.cn -->  Finance or Lease Ford Cars &amp; Trucks, Apply for Ford Credit &amp; Pay Bill | Official Site of Ford Credit
+http://wwwmg.fordcredit.ford.com.br -->  BANCO FORD SA
+http://www.dealer.india.ford.com -->  Ford India Locator/Finder | Ford Dealer
+http://www.ddl.ford.com -->  Secure User Login
+https://www.ddl.ford.com -->  Secure User Login
+http://wwwmg.pcm.ford.com -->  Secure User Login
+https://www.dbp.ford.com -->  Web Single Login SecurID Authentication
+https://wwwmg.pcm.ford.com -->  Secure User Login
+https://www.dealer.india.ford.com -->  Ford India Locator/Finder | Ford Dealer
+http://wwwmg.planford.com.ve -->  Secure User Login
+http://wwwmg.qcp.fis.ford.com.br -->  Secure User Login
+http://wwwmg.suppcomm.ford.com -->  Secure User Login
+https://wwwmg.suppcomm.ford.com -->  Secure User Login
+http://wwwdevalt2.servicesfoca.ford.com -->  Secure User Login
+http://www.mk.ford.com -->  Secure User Login
+https://www.mk.ford.com -->  Secure User Login
+http://www.mycareer.ford.com -->  Work with Us
+https://wwwdevalt2.servicesfoca.ford.com -->  Secure User Login
+http://www.mviper.ford.com -->  Secure User Login
+http://www.mycareer.ford.com -->  Work with Us
+https://www.mycareer.ford.com -->  Work with Us
+https://www.mviper.ford.com -->  Secure User Login
+https://www.mycareer.ford.com -->  Work with Us
+http://www.myplan.ford.com -->  Work with Us
+http://wwwdevalt2.servicesfocb.ford.com -->  Secure User Login
+http://www.na.fleet.ford.com -->  Work with Us
+https://www.myplan.ford.com -->  Work with Us
+https://www.na.fleet.ford.com -->  Work with Us
+http://wwwdevalt2.servicesfoc.ford.com -->  Secure User Login
+http://www.nguams.ford.com -->  Home Realm Discovery
+https://wwwdevalt2.servicesfocb.ford.com -->  Secure User Login
+http://wwwdevalt2.servicesusa.ford.com -->  Secure User Login
+http://www.northcn.dts.ford.com -->  Microsoft Azure Web App - Error 404
+https://www.northcn.dts.ford.com -->  Microsoft Azure Web App - Error 404
+http://www.origin.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+https://wwwdevalt2.servicesfoc.ford.com -->  Secure User Login
+https://wwwdevalt2.servicesusa.ford.com -->  Secure User Login
+https://wwwdevalt2.servicesusb.ford.com -->  Secure User Login
+https://www.origin.caribe.ford.com -->  Ford Caribe | Choose Your Country | Welcome to Ford! 
+http://wwwdev.axz.ford.com -->  Secure User Login
+http://wwwdevalt2.servicesusb.ford.com -->  Secure User Login
+http://www.origin.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+http://www.origin.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://wwwdev.carsadmin.ford.com -->  Home Realm Discovery
+https://wwwdev.carsadmin.ford.com -->  Home Realm Discovery
+https://www.nguams.ford.com -->  Home Realm Discovery
+http://wwwdev.clw.ford.com -->  Home Realm Discovery
+https://wwwdev.clwa.ford.com -->  Home Realm Discovery
+https://wwwdev.clwb.ford.com -->  Home Realm Discovery
+http://www.origin.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+https://wwwdev.clw.ford.com -->  Home Realm Discovery
+https://www.origin.ford.com.br -->  Ford | Site Oficial da Ford Brasil 
+http://wwwdev.eastus.dts.ford.com -->  Microsoft Azure Web App - Error 404
+https://www.origin.ford.com.au -->  Ford Cars, SUVs and Commercial Vehicles | Ford Australia
+https://wwwdev.eastus.dts.ford.com -->  Microsoft Azure Web App - Error 404
+http://www.developer.ford.com -->  Microsoft Azure Web App - Error 404
+https://www.developer.ford.com -->  Microsoft Azure Web App - Error 404
+http://wwwdev.fleetusa.ford.com -->  Microsoft Azure Web App - Error 404
+https://www.origin.ford.com.co -->  Ford Colombia - Autos  Crossovers  SUVs  Pick Ups  Camionetas  y Accesorios.
+http://wwwdev.fleetusb.ford.com -->  Microsoft Azure Web App - Error 404
+https://wwwdev.fleetusb.ford.com -->  Microsoft Azure Web App - Error 404
+http://wwwdev.fleetus.ford.com -->  Microsoft Azure Web App - Error 404
+http://www.origin.ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://wwwdev.gforce.ford.com -->  Secure User Login
+https://www.origin.ford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+http://wwwdevmg2.servicesusa.ford.com -->  Ford Next-Gen Services - Ford Next-Gen Platform Services
+http://www.origin.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+https://www.origin.india.ford.com -->  Ford Cars &amp; SUV, Lastest &amp; Upcoming Models, Price and Reviews| Ford India
+http://www.origin.me.ford.com -->  Ford ME Country Selector
+http://www.origin.ssa.ford.com -->   Ford Sub-Saharan Africa
+https://www.origin.me.ford.com -->  Ford ME Country Selector
+http://www.owneradvantage.ford.com -->  Owner Advantage Home
+http://www.owneradvantagerewards.ford.com -->  Owner Advantage Home
+https://www.origin.ssa.ford.com -->   Ford Sub-Saharan Africa
+http://www.owneradvantageford.com -->  Owner Advantage Home
+http://www.owner.ford.com -->  maintenance
+https://www.owneradvantage.ford.com -->  Owner Advantage Home
+https://www.owneradvantagerewards.ford.com -->  Owner Advantage Home
+https://www.owneradvantageford.com -->  Owner Advantage Home
+https://www.owner.ford.com -->  maintenance
+https://www.pandaq.ford.com -->  maintenance
+http://www.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://www.parts.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://www.panda.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://www.pandap.ford.com -->  Parts.Ford.com | The Ford Parts Site | Buy OEM Ford Parts Online&lrm;
+https://www.pandaqa.ford.com -->  Oracle HTTP Server 12c
+http://www.pcm.ford.com -->  Secure User Login
+https://www.pcm.ford.com -->  Secure User Login
+http://www.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://www.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://www.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://www.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://www.planford.com.ve -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://www.prod.dts.ford.com -->  Microsoft Azure Web App - Error 404
+https://www.prod.dts.ford.com -->  Microsoft Azure Web App - Error 404
+http://www.proveedores.ford.com -->  Secure User Login
+http://www.pw.ford.com -->  PW 
+http://wwwqa2.fleet.ford.com -->  Fleet Home Page
+https://www.pw.ford.com -->  PW 
+https://www.proveedores.ford.com -->  Secure User Login
+http://wwwqa2.ivsu.ziphandler.ford.com.cn -->  Home Page
+https://wwwqa2.ivsu.ziphandler.ford.com.cn -->  Home Page
+https://wwwqa2.fleet.ford.com -->  Fleet Home Page
+http://wwwqa.account.ford.com -->  Ford - Sign-In
+http://wwwqa.agenda.ford.com -->  :: Agend@Ford      ::
+https://wwwqa.account.ford.com -->  Ford - Sign-In
+https://wwwqa.agenda.ford.com -->  :: Agend@Ford      ::
+http://wwwqaalt1.nvousa.ford.com -->  Secure User Login
+http://wwwqaalt1.nvousb.ford.com -->  Secure User Login
+https://wwwqaalt1.nvousa.ford.com -->  Secure User Login
+http://wwwqaalt1.nvous.ford.com -->  Secure User Login
+https://wwwqaalt1.nvousb.ford.com -->  Secure User Login
+https://wwwqaalt1.nvous.ford.com -->  Secure User Login
+http://wwwqaalt2.servicesusa.ford.com -->  Secure User Login
+http://wwwqaalt2.servicesusb.ford.com -->  Secure User Login
+https://wwwqaalt2.servicesusb.ford.com -->  Secure User Login
+https://wwwqaalt2.servicesusa.ford.com -->  Secure User Login
+http://wwwqa.axz.ford.com -->  Secure User Login
+https://wwwqa.axz.ford.com -->  Secure User Login
+http://wwwqa.bpm.ford.com -->  Secure User Login
+https://wwwqa.bpm.ford.com -->  Secure User Login
+http://wwwqa.capacityplanning2.ford.com -->  Secure User Login
+https://wwwqa.capacityplanning2.ford.com -->  Secure User Login
+https://wwwqa.carsadmin.ford.com -->  Home Realm Discovery
+http://wwwqa.cevdm.ford.com.cn -->  Error
+https://wwwqa.clwa.ford.com -->  Error
+https://wwwqa.cevdm.ford.com.cn -->  Error
+https://wwwqa.clwb.ford.com -->  Error
+http://wwwqa.companyvehicles.ford.com -->  Secure User Login
+https://wwwqa.companyvehicles.ford.com -->  Secure User Login
+http://wwwqa.carsadmin.ford.com -->  Home Realm Discovery
+http://wwwqa.contactosford.com.ve -->  Ford Venezuela - Autos, Crossovers, SUVs, Pick Ups, Camionetas, Camiones y Accesorios.
+https://wwwqa.dbp1.ford.com -->  Web Single Login SecurID Authentication
+https://wwwqa.dbp2.ford.com -->  Web Single Login SecurID Authentication
+https://wwwqa.dbp3.ford.com -->  Web Single Login SecurID Authentication
+https://wwwqa.dbp4.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.ddl.ford.com -->  Secure User Login
+https://wwwqa.ddl.ford.com -->  Secure User Login
+http://wwwqa.ebcmws.ford.com -->  Secure User Login
+http://wwwqa.eblesscaps.ford.com -->  Secure User Login
+https://wwwqa.ebcmws.ford.com -->  Secure User Login
+https://wwwqa.eblesscaps.ford.com -->  Secure User Login
+http://wwwqa.esmart2.ford.com -->  Secure User Login
+https://wwwqa.esmart2.ford.com -->  Secure User Login
+http://wwwqa.etis.ford.com -->  Secure User Login
+https://wwwqa.etis.ford.com -->  Secure User Login
+http://wwwqa.fcsd-parts.ford.com -->  Home Realm Discovery
+http://wwwqa.fcsd-parts-na.ford.com -->  Home Realm Discovery
+https://wwwqa.fcsd-parts.ford.com -->  Home Realm Discovery
+https://wwwqa.fcsd-parts-na.ford.com -->  Home Realm Discovery
+http://wwwqa.ffsupload.ford.com -->  FFS Upload
+http://wwwqa.ffsupload.ford.com -->  FFS Upload
+http://wwwqa.ffsupload.ford.com -->  FFS Upload
+https://wwwqa.ffsupload.ford.com -->  FFS Upload
+https://wwwqa.ffsupload.ford.com -->  FFS Upload
+https://wwwqa.ffsupload.ford.com -->  FFS Upload
+http://wwwqa.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+http://wwwqa.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+https://wwwqa.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+https://wwwqa.fomonbase.ford.com -->  Default Dummy Test Page for IIS Setup
+http://wwwqa.fordcredit.ar.ford.com -->   Ford Argentina - Financiamiento Ford Credit
+http://wwwqa.fordlpg.ford.com -->  Ford Lommel Proving Ground
+https://wwwqa.fordcredit.ar.ford.com -->   Ford Argentina - Financiamiento Ford Credit
+https://wwwqa.fordlpg.ford.com -->  Ford Lommel Proving Ground
+http://wwwqa.forso.fi.ford.com -->  Ford Lommel Proving Ground
+http://wwwqa.fsiv2.ford.com -->  Secure User Login
+https://wwwqa.forso.fi.ford.com -->  Secure User Login
+http://wwwqa.fsivbatch.ford.com -->  Secure User Login
+https://wwwqa.fsiv2.ford.com -->  Secure User Login
+http://wwwqa.fsiv.ford.com -->  Secure User Login
+https://wwwqa.fsivbatch.ford.com -->  Secure User Login
+https://wwwqa.fsiv.ford.com -->  Secure User Login
+http://wwwqa.gcat2.ford.com -->  Login
+http://wwwqa.gcat2.ford.com -->  Login
+https://wwwqa.gcat2.ford.com -->  Login
+https://wwwqa.gcat2.ford.com -->  Login
+http://wwwqa.gforce.ford.com -->  Secure User Login
+https://wwwqa.gforce.ford.com -->  Secure User Login
+http://wwwqa.gmm.ford.com -->  Secure User Login
+http://wwwqa.gmmimds.ford.com -->  Secure User Login
+http://wwwqa.goasis.ford.com -->  Secure User Login
+http://wwwqa.gsec.ford.com -->   GSEC Hub - Home
+http://wwwqa.gsec.ford.com -->   GSEC Hub - Home
+https://wwwqa.gmm.ford.com -->  Secure User Login
+https://wwwqa.gmmimds.ford.com -->  Secure User Login
+https://wwwqa.gsec.ford.com -->   GSEC Hub - Home
+https://wwwqa.gsec.ford.com -->   GSEC Hub - Home
+https://wwwqa.goasis.ford.com -->  Secure User Login
+http://wwwqa.hmm.ford.com -->  Home Realm Discovery
+https://wwwqa.hmm.ford.com -->  Home Realm Discovery
+http://wwwqa.ibis.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.imcs.ford.com -->  Secure User Login
+https://wwwqa.ibis.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.impex.ford.com -->  Secure User Login
+https://wwwqa.imcs.ford.com -->  Secure User Login
+https://wwwqa.impex.ford.com -->  Secure User Login
+http://wwwqa.ivis2.ford.com -->  Sign In
+http://wwwqa.ivis3.ford.com -->  Sign In
+http://wwwqa.ivisb.ford.com -->  Secure User Login
+http://wwwqa.ivs.ford.com -->  Home Realm Discovery
+https://wwwqa.ivis2.ford.com -->  Sign In
+https://wwwqa.ivis3.ford.com -->  Sign In
+https://wwwqa.ivs.ford.com -->  Home Realm Discovery
+https://wwwqa.ivisb.ford.com -->  Secure User Login
+http://wwwqa.lean.ford.com -->  Home Realm Discovery
+https://wwwqa.lean.ford.com -->  Home Realm Discovery
+http://wwwqa.lom.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.media.ford.com -->  Home | Ford Media Center
+https://wwwqa.lom.ford.com -->  Web Single Login SecurID Authentication
+https://wwwqa.media.ford.com -->  Home | Ford Media Center
+http://wwwqamg16.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://wwwqamg16.fordclassic.ford.com -->  Default Dummy Test Page for IIS Setup
+http://wwwqamg16.lean.ford.com -->  Secure User Login
+https://wwwqamg16.lean.ford.com -->  Secure User Login
+https://wwwqamg16.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://wwwqamg2.credit.ford.com -->  This e-commerce web site is under construction
+http://wwwqamg2.servicesusb.ford.com -->  Secure User Login
+https://wwwqamg2.servicesusb.ford.com -->  Secure User Login
+http://wwwqamg2.servicesus.ford.com -->  Secure User Login
+https://wwwqamg2.servicesus.ford.com -->  Secure User Login
+http://wwwqamg.quickquotefocb.ford.com -->  Get a Local Quote
+https://wwwqamg.quickquotefocb.ford.com -->  Get a Local Quote
+http://wwwqamg.servicesfocb.ford.com -->  Home Realm Discovery
+http://wwwqamg.servicesfoc.ford.com -->  Home Realm Discovery
+https://wwwqamg.servicesfocb.ford.com -->  Home Realm Discovery
+http://wwwqa.mk.ford.com -->  Web Single Login SecurID Authentication
+https://wwwqa.mk.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.myfordvehicles.ford.com -->  Secure User Login
+https://wwwqa.myfordvehicles.ford.com -->  Secure User Login
+http://wwwqa.myplan.ford.com -->  Secure User Login
+https://wwwqa.myplan.ford.com -->  Secure User Login
+http://wwwqa.na.fleet.ford.com -->  Secure User Login
+https://wwwqa.na.fleet.ford.com -->  Secure User Login
+http://wwwqa.ngauthor.ford.com -->  Secure User Login
+http://wwwqa.nguams.ford.com -->  Home Realm Discovery
+https://wwwqa.nguams.ford.com -->  Home Realm Discovery
+http://www.qa.owneradvantagerewards.ford.com -->  Owner Advantage Home
+https://www.qa.owneradvantagerewards.ford.com -->  Owner Advantage Home
+http://wwwqa.pcm.ford.com -->  Secure User Login
+https://wwwqa.pcm.ford.com -->  Secure User Login
+http://wwwqa.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://wwwqa.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://wwwqa.planford.com.ve -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://wwwqa.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://wwwqa.performanceparts.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://wwwqa.proveedores.ford.com -->  Secure User Login
+https://wwwqa.proveedores.ford.com -->  Secure User Login
+http://wwwqa.raf.ford.com -->  Secure User Login
+https://wwwqa.raf.ford.com -->  Secure User Login
+http://wwwqa.rapid.ford.com -->  Working...
+http://wwwqa.rea.ford.com -->  Secure User Login
+https://wwwqa.rea.ford.com -->  Secure User Login
+https://wwwqa.rapid.ford.com -->  Working...
+https://wwwqa.quickquoteusb.ford.com -->  Get an Internet Price
+http://wwwqa.quickquoteusb.ford.com -->  Get an Internet Price
+http://wwwqa.servicesusb.ford.com -->  Home Realm Discovery
+http://wwwqa.servicesus.ford.com -->  Home Realm Discovery
+https://wwwqa.servicesusb.ford.com -->  Home Realm Discovery
+https://wwwqa.servicesus.ford.com -->  Home Realm Discovery
+http://wwwqa.servis2nat1.ford.com -->  Secure User Login
+http://wwwqa.servis2.ford.com -->  Secure User Login
+https://wwwqa.servis2.ford.com -->  Secure User Login
+http://wwwqa.stamps-esp.ford.com -->  Home Realm Discovery
+http://wwwqa.stamps-esp.ford.com -->  Home Realm Discovery
+https://wwwqa.stamps-esp.ford.com -->  Home Realm Discovery
+https://wwwqa.stamps-esp.ford.com -->  Home Realm Discovery
+http://wwwqa.suppcomm.ford.com -->  Home Realm Discovery
+https://wwwqa.suppcomm.ford.com -->  Home Realm Discovery
+http://wwwqa.trackey.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://wwwqa.trackey.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://wwwqa.vdsin.ford.com -->  Secure User Login
+http://wwwqa.vdsuk.ford.com -->  Secure User Login
+https://wwwqa.vdsuk.ford.com -->  Secure User Login
+http://wwwqa.vrhub.ford.com -->  Secure User Login
+https://wwwqa.vmacs.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.vmacs.ford.com -->  Web Single Login SecurID Authentication
+http://wwwqa.vsemweb.ford.com -->  This e-commerce web site is under construction
+https://wwwqa.vrhub.ford.com -->  This e-commerce web site is under construction
+http://wwwqa.vsem.ford.com -->  Home Realm Discovery
+http://wwwqa.warrantyauthoring.ford.com -->  Secure User Login
+http://wwwqa.warrantyclaims.ford.com -->  Secure User Login
+https://wwwqa.vsemweb.ford.com -->  This e-commerce web site is under construction
+https://wwwqa.warrantyauthoring.ford.com -->  Secure User Login
+http://wwwqa.warrantyclaimslp.ford.com -->  Secure User Login
+http://wwwqa.warrantyprocessing.ford.com -->  Secure User Login
+https://wwwqa.vsem.ford.com -->  Home Realm Discovery
+https://wwwqa.warrantyprocessing.ford.com -->  Secure User Login
+https://wwwqa.warrantyclaimslp.ford.com -->  Secure User Login
+http://wwwqa.webquote1.ford.com -->  Secure User Login
+http://wwwqa.webquote.ford.com -->  Secure User Login
+https://wwwqa.warrantyclaims.ford.com -->  Secure User Login
+https://wwwqa.webquote.ford.com -->  Secure User Login
+https://wwwqa.webquote1.ford.com -->  Secure User Login
+http://www.qcp.fis.ford.com.br -->  Secure User Login
+http://www.qcp.fis.ford.com.br -->  Secure User Login
+http://www.qfc.ford.com -->  Ford Fleet Care
+http://www.quickquotefocb.ford.com -->  Get a Local Quote
+http://www.quickquote.ford.com -->  Get an Internet Price
+http://www.quickquote.ford.com -->  Get an Internet Price
+http://www.quickquote.ford.com -->  Get an Internet Price
+http://www.quickquoteusa.ford.com -->  Get an Internet Price
+http://www.quickquotefoca.ford.com -->  Get a Local Quote
+http://www.quickquoteusb.ford.com -->  Get an Internet Price
+http://www.raf.ford.com -->  Secure User Login
+https://www.quickquote.ford.com -->  Get an Internet Price
+http://www.rapid.ford.com -->  Working...
+https://www.raf.ford.com -->  Secure User Login
+https://www.rapid.ford.com -->  Working...
+https://www.rea.ford.com -->  Secure User Login
+http://www.rewards.ford.com -->  Owner Advantage Rewards
+https://www.rewards.ford.com -->  Owner Advantage Rewards
+http://www.serviceadvisor.ford.com -->  Web Single Login
+https://www.serviceadvisor.ford.com -->  Web Single Login
+http://www.servicesfocb.ford.com -->  Home Realm Discovery
+http://www.servicesfoc.ford.com -->  Home Realm Discovery
+http://www.servicesusb.ford.com -->  Home Realm Discovery
+http://www.servicesus.ford.com -->  Home Realm Discovery
+https://www.servicesfoc.ford.com -->  Home Realm Discovery
+http://www.servis2.ford.com -->  Secure User Login
+https://www.servis2.ford.com -->  Secure User Login
+https://www.servicesusb.ford.com -->  Home Realm Discovery
+https://www.servicesus.ford.com -->  Home Realm Discovery
+https://www.servicesfocb.ford.com -->  Home Realm Discovery
+http://www.sims.ford.com -->  Secure User Login
+https://www.sims.ford.com -->  Secure User Login
+http://www.social.ford.com -->  Ford Social: Breaking News, Articles and Videos from Ford--and our Fans
+http://www.servicesfoca.ford.com -->  Home Realm Discovery
+https://www.servicesfoca.ford.com -->  Home Realm Discovery
+http://www.ssa.ford.com -->   Ford Sub-Saharan Africa
+http://www.servis2nat1.ford.com -->  Secure User Login
+https://www.ssa.ford.com -->   Ford Sub-Saharan Africa
+http://www.stamps-esp.ford.com -->  Home Realm Discovery
+http://www.staponline.ford.com -->  Secure User Login
+https://www.stamps-esp.ford.com -->  Home Realm Discovery
+https://www.staponline.ford.com -->  Secure User Login
+http://www.superg.ford.com -->  Ford Motor Company - SUPER-G Home Page
+http://www.suppcomm.ford.com -->  [91m No Title[00m
+https://www.superg.ford.com -->  Ford Motor Company - SUPER-G Home Page
+http://www.suppcomm.ford.com -->  [91m No Title[00m
+https://www.suppcomm.ford.com -->  [91m No Title[00m
+https://www.suppcomm.ford.com -->  [91m No Title[00m
+http://www.support.ford.com -->  Welcome to Ford Owner | Official Ford Owner Site
+http://www.svt.ford.com -->  Official Ford Performance
+http://www.trackey.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+https://www.trackey.ford.com -->  Official Site of Ford Performance Parts - Mustang Parts, Crate Engines, Packs, Wheels, Superchargers, Racing Parts | Performance Parts Authority
+http://www.t.quickquoteusb.ford.com -->  Get an Internet Price
+http://www.t.quickquoteusa.ford.com -->  Get an Internet Price
+http://www.us.fleet.ford.com -->  [91m No Title[00m
+https://www.usedcar.ford.com.cn -->  [91m No Title[00m
+https://www.us.fleet.ford.com -->  [91m No Title[00m
+http://www.vmacs.ford.com -->  Web Single Login SecurID Authentication
+http://www.vms.ford.com -->  Home Realm Discovery
+https://www.vmacs.ford.com -->  Web Single Login SecurID Authentication
+http://www.volunteer.ford.com -->  FVC : Home
+http://www.volunteer.ford.com -->  FVC : Home
+https://www.vms.ford.com -->  Home Realm Discovery
+https://www.volunteer.ford.com -->  FVC : Home
+https://www.volunteer.ford.com -->  FVC : Home
+http://www.vrhub.ford.com -->  [91m No Title[00m
+http://www.vsem.ford.com -->  Home Realm Discovery
+https://www.vrhub.ford.com -->  [91m No Title[00m
+http://www.vsemweb.ford.com -->  This e-commerce web site is under construction
+http://www.warrantyauthoring.ford.com -->  Secure User Login
+https://www.vsemweb.ford.com -->  This e-commerce web site is under construction
+https://www.warrantyauthoring.ford.com -->  Secure User Login
+https://www.vsem.ford.com -->  Home Realm Discovery
+http://www.warrantyclaimslp.ford.com -->  Secure User Login
+http://www.warrantyclaims.ford.com -->  Secure User Login
+https://www.warrantyclaimslp.ford.com -->  Secure User Login
+https://www.warrantyclaims.ford.com -->  Secure User Login
+http://www.warrantyprocessing.ford.com -->  Secure User Login
+http://www.warriorsinpink.ford.com -->  Warriors in Pink
+http://www.warriorsinpink.ford.com -->  Warriors in Pink
+https://www.warrantyprocessing.ford.com -->  Secure User Login
+http://www.webquote1.ford.com -->  Secure User Login
+http://www.webquote.ford.com -->  Secure User Login
+https://www.warriorsinpink.ford.com -->  Warriors in Pink
+https://www.webquote1.ford.com -->  Secure User Login
+https://www.warriorsinpink.ford.com -->  Warriors in Pink
+https://www.webquote.ford.com -->  Secure User Login

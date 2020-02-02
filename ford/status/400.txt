@@ -1,0 +1,11 @@
+http://customizerservices.ford.com
+http://ivsuqa3.binaries.ford.com.cn
+http://ivsuqa2.binaries.ford.com.cn
+http://ivsuqa1.binaries.ford.com.cn
+http://ivsu.binaries.ford.com.cn
+https://ivsuqa2.binaries.ford.com.cn
+https://ivsuqa3.binaries.ford.com.cn
+https://ivsuqa1.binaries.ford.com.cn
+https://ivsu.binaries.ford.com.cn
+http://www.autoshows.ford.com
+https://www.autoshows.ford.com
