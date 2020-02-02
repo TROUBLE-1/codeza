@@ -3,13 +3,20 @@ This tool will enumerate all the URL's in the file and will classify all of them
 Result will be saved in different files in given foldername
 This tool makes easy to select the targets when you have lot's of domains to enumerate
 
-      ____   ____   ____   _____  _____      _
-	 |####| |####| |####  |##### |#####     /#\   
-	|#      #    # |#   # |#|___    /#     /# #\     
-	|#      #    # |#   # |####    /#     /#/_\#\    
-	|#____  #____# |# __# |#|__   /#     /#/   \#\         
-	 |####| |####| |####  |##### /##### /#/     \#\       
-
+```
+|           /|                                 
+|          / |                  
+|    _____|  |_____                                                         
+|   /_____   _____/
+|         |  | _      ____   ____   ____   _____  _____      _            
+|         |  || |    |####| |####| |####  |##### |#####     /#\           
+|         |  || |   |#      #    # |#   # |#|___    /#     /# #\          
+|         |  || |   |#      #    # |#   # |####    /#     /# _\#\         
+|         |  ||/    |#____  #____# |#___# |#|__   /#___  /#/   \#\        
+|         | /        |####| |####| |####  |##### /##### /#/     \#\       
+|         |/                                                              
+|                     # Coded By Raunak Parmar - @trouble1_raunak       
+```
 
 ![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/Capture.JPG)
 
