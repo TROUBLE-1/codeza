@@ -20,7 +20,7 @@ This tool makes easy to select the targets when you have lot's of domains to enu
 |____________________________________________________________________|
 ```
 
-![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/Capture.JPG)
+![Image codeza](https://github.com/TROUBLE-1/codeza/blob/master/Images/7.JPG)
 
 # Note
 I have provided a list of subdomins of \*.ford.com with more then 5000 domins.
