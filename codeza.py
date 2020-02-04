@@ -207,8 +207,24 @@ for line in f:
 		update = line + " [Error: Line no "+ str(m) + " ]"
 		os.system("echo " + update + " >> " + foldername + "/error/ChunkedEncodingError.txt")
 		pass
-			
-	#except Exception as e:
+
+	# error for InvalidSchema
+	except requests.exceptions.InvalidSchema as e:
+		print ('\x1b[6;29;41m' + "[Error: Line no: "+ str(m) + " Url: " + line + "]"+ '\x1b[0m')+ ('\033[91m' + " InvalidSchema" + '\033[00m')
+		print ""
+		update = line + " [Error: Line no "+ str(m) + " ]"
+		os.system("echo " + update + " >> " + foldername + "/error/InvalidSchema.txt")
+		pass
+
+	# error for InvalidURL
+	except requests.exceptions.InvalidURL as e:
+		print ('\x1b[6;29;41m' + "[Error: Line no: "+ str(m) + " Url: " + line + "]"+ '\x1b[0m')+ ('\033[91m' + " InvalidURL" + '\033[00m')
+		print ""
+		update = line + " [Error: Line no "+ str(m) + " ]"
+		os.system("echo " + update + " >> " + foldername + "/error/InvalidURL.txt")
+		pass
+		
+	#except Exception as e:	
 	#	pass
 	
 print "(+) Done :)"
