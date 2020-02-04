@@ -90,6 +90,10 @@ if isdir == True:
 	else:
 		print ('\033[91m' + "[!] " + '\033[00m') + "Wrong input :("
 		sys.exit()
+	
+else:
+	createFolders()
+	
 print ""
 
 for line in f:
