@@ -3,7 +3,7 @@ This tool will enumerate all the URL's in the file and will classify all of them
 Result will be saved in different files in given foldername
 This tool makes easy to select the targets when you have lot's of domains to enumerate
 
-Run this tool in Python 2
+There are 2 codeza.py one is for python2 and another one is for python3
 ```
  ____________________________________________________________________
 |           /|                                                       |
