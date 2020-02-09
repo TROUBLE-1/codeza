@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def logo():
 
 	print ('\033[94m' + """
