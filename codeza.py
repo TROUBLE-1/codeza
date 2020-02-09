@@ -37,7 +37,7 @@ if sys.version_info[0] > 2:
 
 
 if len(sys.argv) != 3:
-	print ("(+) usage: %s <file> <Min_Length> <Folder_name_to_create>" % str(sys.argv[0])) 
+	print ("(+) usage: %s <file> <Folder_name_to_create>" % str(sys.argv[0])) 
 	print ("(+) eg: %s alive.txt 500 ford" % sys.argv[0])
 	print ("(+) Note: List should contain http:// or https://")
 	sys.exit(-1)
