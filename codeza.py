@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 def logo():
 
 	print ('\033[94m' + """
@@ -39,7 +37,7 @@ if sys.version_info[0] > 2:
 
 
 if len(sys.argv) != 3:
-	print ("(+) usage: %s <file> <Folder_name_to_create>" % str(sys.argv[0])) 
+	print ("(+) usage: %s <file> <Min_Length> <Folder_name_to_create>" % str(sys.argv[0])) 
 	print ("(+) eg: %s alive.txt 500 ford" % sys.argv[0])
 	print ("(+) Note: List should contain http:// or https://")
 	sys.exit(-1)
@@ -52,7 +50,7 @@ m  = 0
 f = open(file)
 
 def contactMe():
-	print()
+	print("")
 	print ('\033[96m' + "(+) Result will be saved in folder name " + foldername + "/ " + '\033[00m')
 	print ('\033[96m' + "(+) Contact me on twitter for any suggestion or help- @trouble1_raunak" + '\033[00m')
 	print ("")
@@ -114,9 +112,18 @@ def main(line):
 		forms = ["</form>", "password", "username", "methods="]
 		forms_found = False
 
-		#if "netherlands" or "government" in res:
-		#	os.system('echo '+ line + ' >> '+ foldername +'/your_search.txt')
-
+		#Search for server info
+		headers = req.headers
+		if "Server" in headers:
+			server = ('\033[96m' +" --> " + '\033[00m')+ ('\x1b[6;29;46m ' + 'Server:' + '\x1b[0m') +('\033[96m ' + headers['Server'] + '\033[00m')
+			server1 = headers['Server']
+		elif "X-Powered-By" in headers:
+			server = ('\033[96m' +" --> " + '\033[00m') + ('\x1b[6;29;46m ' + 'Server:' + '\x1b[0m') +('\033[96m ' + header['X-Powered-By'] + '\033[00m')
+			server1 = header['X-Powered-By']
+		else:
+			server = ""
+			server1 = ""
+	
 		# check for forms
 		for item in forms:    
 			if item in res:
@@ -147,19 +154,24 @@ def main(line):
 
 		if not r1:  
 			title = ('\033[91m' + " No Title" + '\033[00m')
+			title1 = " No Title" 
 
 		else:
 			title = r1[0]
-			os.system("echo '" + line + " -->  " + title + "' >> " + foldername + "/with_titles.txt")
+			title = title.replace(u'\u200e', '')
+			title = title.replace(u'\xa0', '')
+			title1 = title
+			cmd = str(line + " --> " + title )
+			os.system("echo '" + cmd + "' >> " + foldername + "/with_titles.txt")
 		# result in with_titles.txt
 	
 		
-		result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[93m' +" --> " + '\033[00m') + ('\x1b[6;29;43m ' + 'Len:' + '\x1b[0m') + " " + ('\033[92m' + str(len(res)) + '\033[00m') + ('\033[94m' +" --> " + '\033[00m') +('\x1b[6;29;44m ' + 'Title:' + '\x1b[0m') +" " + ('\033[92m' + title + '\033[00m')
+		result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[93m' +" --> " + '\033[00m') + ('\x1b[6;29;43m ' + 'Len:' + '\x1b[0m') + " " + ('\033[92m' + str(len(res)) + '\033[00m') + ('\033[94m' +" --> " + '\033[00m') +('\x1b[6;29;44m ' + 'Title:' + '\x1b[0m') +" " + ('\033[92m' + title + ' \033[00m') + server
 
 		CSI = "\x1B["
 		# full result
 		full_result = (CSI+"29;45m" + "[ " + str(m) + " ]"+ CSI + "0m")+ result
-		result1 = line + " --> " + "Len: " +str(len(res)) + " --> " + " Title: " + title
+		result1 = line + " --> " + "Len: " +str(len(res)) + " --> " + " Title: " + title1 + " Server: " + server1
 
 		# upadating result
 		os.system("echo '" + str(result1) + "' >> " + foldername +"/potential_result.txt")
@@ -185,17 +197,14 @@ def main(line):
 		os.system("echo " + line + " >> " + foldername + "/error/"+ str(errname) +".txt")
 		pass
 
-m = 0	
 processes = []
 with ThreadPoolExecutor(max_workers=20) as executor:
-	for line in f:
-		
+	for line in f:	
 		line = line.strip('\r\n')
-		m = 0
 		processes.append(executor.submit(main, line))
 		
 for task in as_completed(processes):
 	(task.result())
 	
-print ""
+print ("")
 print (('\033[92m' + "(+) " + '\033[00m')+ " Done :)")
