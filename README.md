@@ -1,5 +1,5 @@
 # Description
-This tool will enumerate all the URL's in the file and will classify all of them according to their content-Length, Status-code, Title, Forms, possbile Dom-XSS.
+This tool will enumerate all the URL's in the file and will classify all of them according to their content-Length, Status-code, Title, Server, Forms, possbile Dom-XSS.
 Result will be saved in different files in given foldername
 This tool makes easy to select the targets when you have lot's of domains to enumerate
 
