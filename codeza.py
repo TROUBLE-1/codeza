@@ -158,10 +158,8 @@ def main(line):
 
 		else:
 			title = r1[0]
-			title = title.replace(u'\u200e', '')
-			title = title.replace(u'\xa0', '')
-			title1 = title
-			cmd = str(line + " --> " + title )
+			title1 = title.encode('ascii',errors='ignore')
+			cmd = str(line + " --> " + title1 )
 			os.system("echo '" + cmd + "' >> " + foldername + "/with_titles.txt")
 		# result in with_titles.txt
 	
