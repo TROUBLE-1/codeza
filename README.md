@@ -30,6 +30,11 @@ Provide file_name, min_content_length, Folder_name_to_create respectively while 
 
 Make sure file contains URL's with http:// or https://
 
+# Installing modules
+```
+sudo pip install -r requirements.txt
+```
+
 # Usage
 1. Get all list of subdomains in a file (eg. all.txt)
 2. use httprobe command (eg. cat all.txt | httprobe > alive.txt) --> https://github.com/tomnomnom/httprobe
