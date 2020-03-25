@@ -118,8 +118,8 @@ def main(line):
 			server = ('\033[96m' +" --> " + '\033[00m')+ ('\x1b[6;29;46m ' + 'Server:' + '\x1b[0m') +('\033[96m ' + headers['Server'] + '\033[00m')
 			server1 = headers['Server']
 		elif "X-Powered-By" in headers:
-			server = ('\033[96m' +" --> " + '\033[00m') + ('\x1b[6;29;46m ' + 'Server:' + '\x1b[0m') +('\033[96m ' + header['X-Powered-By'] + '\033[00m')
-			server1 = header['X-Powered-By']
+			server = ('\033[96m' +" --> " + '\033[00m') + ('\x1b[6;29;46m ' + 'Server:' + '\x1b[0m') +('\033[96m ' + headers['X-Powered-By'] + '\033[00m')
+			server1 = headers['X-Powered-By']
 		else:
 			server = ""
 			server1 = ""
