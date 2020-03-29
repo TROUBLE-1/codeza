@@ -164,7 +164,7 @@ def main(line):
 		# result in with_titles.txt
 	
 		
-		result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[93m' +" --> " + '\033[00m') + ('\x1b[6;29;43m ' + 'Len:' + '\x1b[0m') + " " + ('\033[92m' + str(len(res)) + '\033[00m') + ('\033[94m' +" --> " + '\033[00m') +('\x1b[6;29;44m ' + 'Title:' + '\x1b[0m') +" " + ('\033[92m' + title + ' \033[00m') + server
+		result = " " + ('\033[92m' +line + '\033[00m')+ ('\033[93m' +" --> " + '\033[00m') + ('\x1b[6;29;43m ' + 'Len:' + '\x1b[0m') + " " + ('\033[93m' + str(len(res)) + '\033[00m') + ('\033[94m' +" --> " + '\033[00m') +('\x1b[6;29;44m ' + 'Title:' + '\x1b[0m') +" " + ('\033[94m' + title + ' \033[00m') + server
 
 		CSI = "\x1B["
 		# full result
@@ -187,7 +187,6 @@ def main(line):
 	
 	# List of Possible Exceptions begins from here
 	  
-	
 	except Exception as e:
 		errname = type(e).__name__
 		print (str('\x1b[6;29;41m' + "[Error Url: " + str(line) + "]"+ '\x1b[0m')+ ('\033[91m ' + str(errname) + '\033[00m'))
