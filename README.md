@@ -5,7 +5,7 @@ This tool makes easy to select the targets when you have lot's of domains to enu
 
 There are 2 codeza.py one is for python2 and another one is for python3
 
-### [WatWatchch video](https://twitter.com/trouble1_raunak/status/1223649330562600960?s=09)
+### [Watch video](https://twitter.com/trouble1_raunak/status/1223649330562600960?s=09)
 
 ```
  ____________________________________________________________________
