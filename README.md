@@ -36,11 +36,13 @@ This tool makes easy to select the targets when you have lot's of domains to enu
 sudo pip install -r requirements.txt
 ```
 
-#usage
+# Usage
 ```
 root@kali:~# python3 codeza.py -h
 (+) usage: codeza.py [file] [output]
 (+) eg: codeza.py domain.txt ford
+Just give file name for no output
+(+) eg: codeza.py domain.txt
 ```
 
 
