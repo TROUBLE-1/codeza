@@ -8,13 +8,9 @@
 </h1>
 
 # Description
-This tool will enumerate all the URL's in the file and will classify all of them according to their content-Length, Status-code, Title, Server, Forms, possbile Dom-XSS.
+This tool will enumerate all the URL's or Domains in the file and will classify all of them according to their content-Length, Status-code, Title, Server, Forms, possbile Dom-XSS.
 Result will be saved in different files in given foldername
 This tool makes easy to select the targets when you have lot's of domains to enumerate
-
-There are 2 codeza.py one is for python2 and another one is for python3
-
-### [Watch video](https://twitter.com/trouble1_raunak/status/1223649330562600960?s=09)
 
 ```
  ____________________________________________________________________
@@ -35,12 +31,6 @@ There are 2 codeza.py one is for python2 and another one is for python3
 
 ![Image codeza](https://i.ibb.co/Y2PY5Ct/Capture.png)
 
-# Note
-I have provided a list of subdomins of \*.ford.com with more then 5000 domins.
-
-Provide file_name, min_content_length, Folder_name_to_create respectively while using codeza.py
-
-Make sure file contains URL's with http:// or https://
 
 # Installing modules
 ```
