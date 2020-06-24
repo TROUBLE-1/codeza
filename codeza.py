@@ -39,6 +39,7 @@ if sys.version_info[0] < 2:
 def help():
 	print("(+) usage: %s [file] [output]" % str(sys.argv[0]))
 	print("(+) eg: %s domain.txt ford" % sys.argv[0])
+	print()
 	print("Give file name only for no output")
 	print("(+) eg: codeza.py domain.txt")
 	sys.exit(-1)
