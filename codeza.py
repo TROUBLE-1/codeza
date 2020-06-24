@@ -36,10 +36,18 @@ if sys.version_info[0] < 2:
 	print(('\033[91m' + "[!]" + '\033[00m')+" Python 3 required")
 	exit()
 
-if (sys.argv[1]) == '-h':
-	print(("(+) usage: %s [file] [output]" % str(sys.argv[0])))
-	print(("(+) eg: %s domain.txt ford" % sys.argv[0]))
+def help():
+	print("(+) usage: %s [file] [output]" % str(sys.argv[0]))
+	print("(+) eg: %s domain.txt ford" % sys.argv[0])
+	print("Give file name only for no output")
+	print("(+) eg: codeza.py domain.txt")
 	sys.exit(-1)
+	
+try:
+	if (sys.argv[1]) == '-h':
+		help()
+except Exception as e:
+	help()
 
 # Arguments
 
