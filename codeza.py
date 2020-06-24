@@ -1,5 +1,17 @@
 #!/usr/bin/env python3
 
+import requests
+import os
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
+from requests.exceptions import HTTPError
+from urllib3.exceptions import InsecureRequestWarning
+from colorama import Fore, Back, Style
+import re
+import time
+requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
+
 def logo():
 
 	print ('\033[94m' + """
@@ -20,17 +32,6 @@ def logo():
 |___________________________________________________________________|
 	""" + '\033[00m')
 
-import requests
-import os
-import sys
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import time
-from requests.exceptions import HTTPError
-from urllib3.exceptions import InsecureRequestWarning
-from colorama import Fore, Back, Style
-import re
-import time
-requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 if sys.version_info[0] < 2:
 	print(('\033[91m' + "[!]" + '\033[00m')+" Python 3 required")
