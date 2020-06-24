@@ -7,11 +7,6 @@
   <br>
 </h1>
 
-# Description
-This tool will enumerate all the URL's or Domains in the file and will classify all of them according to their content-Length, Status-code, Title, Server, Forms, possbile Dom-XSS.
-Result will be saved in different files in given foldername
-This tool makes easy to select the targets when you have lot's of domains to enumerate
-
 ```
  ____________________________________________________________________
 |           /|                                                       |
@@ -29,7 +24,11 @@ This tool makes easy to select the targets when you have lot's of domains to enu
 |____________________________________________________________________|
 ```
 
-![Image codeza](https://i.ibb.co/Y2PY5Ct/Capture.png)
+# Description
+This tool will enumerate all the URL's or Domains in the file and will classify all of them according to their content-Length, Status-code, Title, Server, Forms, possbile Dom-XSS.
+Result will be saved in different files in given foldername
+This tool makes easy to select the targets when you have lot's of domains to enumerate
+
 
 
 # Installing modules
@@ -43,6 +42,10 @@ root@kali:~# python3 codeza.py -h
 (+) usage: codeza.py [file] [output]
 (+) eg: codeza.py domain.txt ford
 ```
+
+
+![Image codeza](https://i.ibb.co/Y2PY5Ct/Capture.png)
+
 
 Twitter- https://twitter.com/trouble1_raunak
 
