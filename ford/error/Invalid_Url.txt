@@ -1,3 +1,0 @@
-b2dgwdev.ford.com [Error: Line no 1 ]
-b2dgwdev.ford.com [Error: Line no 10 ]
-campaign-socialqa.ford.com [Error: Line no 22 ]
