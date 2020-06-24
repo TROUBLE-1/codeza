@@ -44,7 +44,7 @@ root@kali:~# python3 codeza.py -h
 ```
 
 
-![Image codeza](https://i.ibb.co/Y2PY5Ct/Capture.png)
+![Image codeza](https://i.ibb.co/K6bRtP9/Capture.png)
 
 
 Twitter- https://twitter.com/trouble1_raunak
