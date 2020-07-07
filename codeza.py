@@ -40,7 +40,6 @@ if sys.version_info[0] < 2:
 def help():
 	print("(+) usage: %s [file] [output]" % str(sys.argv[0]))
 	print("(+) eg: %s domain.txt ford" % sys.argv[0])
-	print()
 	print("Give file name only for no output")
 	print("(+) eg: codeza.py domain.txt")
 	sys.exit(-1)
@@ -69,7 +68,7 @@ except Exception as e:
 	sys.exit(0)
 
 def contactMe():
-	print()
+	
 	try:
 		print(('\033[96m' + "(+) Result will be saved in folder name " + foldername + "/ " + '\033[00m'))
 	except Exception as e:
