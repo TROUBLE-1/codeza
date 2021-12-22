@@ -136,13 +136,12 @@ def main(line):
 		if "http://" in line or "https://" in line:
 			line = line
 		else:
-			line = "http://" + line
+			line = "https://" + line
 
 	#	req = requests.get(url = line, allow_redirects=True, verify=False , timeout=10.00)
 	#	if req.status_code ==  301:
 	#		line = "https://" + line
-		req = requests.get(url = line, allow_redirects=True, verify=False )
-			
+		req = requests.get(url = line, allow_redirects=True, verify=False, timeout=(10, 10) )			
 		res = req.text
 		forms = ["</form>", "password", "username", "methods="]
 		forms_found = False
